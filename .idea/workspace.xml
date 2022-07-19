@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ef919bc-60ed-45d5-bcf8-a18ddfdf2639" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/amplify/backend/backend-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/amplify/backend/backend-config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amplify/backend/payment/service/template.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amplify/backend/user/service/parameters.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amplify/backend/user/service/template.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orderapi/deploy_OrderApi.sh" beforeDir="false" afterPath="$PROJECT_DIR$/orderapi/deploy_OrderApi.sh" afterDir="false" />
-    </list>
+    <list default="true" id="6ef919bc-60ed-45d5-bcf8-a18ddfdf2639" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +40,7 @@
       <updated>1658147455551</updated>
       <workItem from="1658147457641" duration="4665000" />
       <workItem from="1658211426155" duration="6961000" />
-      <workItem from="1658220848427" duration="6243000" />
+      <workItem from="1658220848427" duration="6621000" />
     </task>
     <servers />
   </component>
