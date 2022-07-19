@@ -121,7 +121,7 @@
 					]
 				}
 			}
-		},
+		},Ï
 		"MutationAddPaymentResolver": {
 			"Type": "AWS::AppSync::Resolver",
 			"Properties": {
