@@ -1,8 +1,0 @@
-{
-    "CognitoUserPoolId": {
-        "Fn::GetAtt": [
-            "authstoreapp039c491c",
-            "Outputs.UserPoolId"
-        ]
-    }
-}

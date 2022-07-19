@@ -52,6 +52,7 @@ else
 fi
     echo "# Done initializing Amplify environment: ${ENV}"
 
+amplify push --yes
 
 echo "# Store Amplify CLI Cloud-Formation stack info in environment cache"
 ORDERAPIINFO="$(amplify env get --json --name ${ENV})"

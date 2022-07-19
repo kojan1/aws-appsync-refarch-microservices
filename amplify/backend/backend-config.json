@@ -22,15 +22,5 @@
 				}
 			}
 		}
-	},
-	"payment": {
-		"service": {
-			"providerPlugin": "awscloudformation"
-		}
-	},
-	"user" : {
-		"service" : {
-			"providerPlugin": "awscloudformation"
-		}
 	}
 }
