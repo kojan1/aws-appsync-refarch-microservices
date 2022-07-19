@@ -25,30 +25,6 @@
 			"Type": "String",
 			"Description": "An S3 key relative to the S3DeploymentBucket that points to the root of the deployment directory."
 		},
-		"PaymentServiceEndpoint": {
-			"Type": "String",
-			"Description": "Payment service endpoint"
-		},
-		"PaymentServiceConsumerSecurityGroup": {
-			"Type": "String",
-			"Description": "Attach this to payment service consumer"
-		},
-		"PaymentServiceConsumerSubnet01": {
-			"Type": "String",
-			"Description": "Put payment service consumer in this private subnet 01"
-		},
-		"PaymentServiceConsumerSubnet02": {
-			"Type": "String",
-			"Description": "Put payment service consumer in this private subnet 02"
-		},
-		"UserServiceEndpoint": {
-			"Type": "String",
-			"Description" : "User service endpoint"
-		},
-		"UserServiceApiId": {
-			"Type": "String",
-			"Description" : "User service Api ID"
-		},
 		"OrderServiceEndpoint" : {
 			"Type" : "String",
 			"Description" : "Order Service Endpoint"
